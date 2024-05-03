@@ -1,10 +1,11 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D4E16AQHZ1CapyCWElA/profile-displaybackgroundimage-shrink_350_1400/0/1705862508112?e=1720051200&v=beta&t=7y8PPxZ37ODtus5LB9F0xVKkeMDHQT3yC9cOu0O9DaA)
+### Hi there 👋, my name is Anthony
+#### Software Engineering Student from Montréal, Canadaa
+![Software Engineering Student from Montréal, Canadaa](https://media.licdn.com/dms/image/D4E16AQHZ1CapyCWElA/profile-displaybackgroundimage-shrink_350_1400/0/1705862508112?e=1720051200&v=beta&t=7y8PPxZ37ODtus5LB9F0xVKkeMDHQT3yC9cOu0O9DaA)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+My career goals are focused on finding work that is meaningful and makes a positive impact, regardless of the industry. I enjoy collaborating with others and working together on projects. I like challenges that push me to grow and develop my skills. Ultimately, I want to contribute to projects that make a real difference in the world and allow me to learn and grow along the way.
+
+Skills: JAVA, C/C++, HTML, CSS, JS, NodeJs, ExpressJS, MySQL
 
 - 🔭 I’m currently working on developing my skills and knowledge 
 - 📫 How to reach me: LinkedIn DM for inquiry 
