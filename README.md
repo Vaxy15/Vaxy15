@@ -9,7 +9,7 @@ My career goals are focused on finding work that is meaningful and makes a posit
 - 🔭 I’m currently working on developing my skills and knowledge 
 - 📫 How to reach me: LinkedIn DM for inquiry
 - 💻 JAVA, C/C++
-- 🕸️ HTML, CSS, JS, NodeJs, ExpressJS
+- 🕸️ HTML, CSS, JS, NodeJs
 - 🐬 MySQL
 #
 - 🔭 I’m currently working on developing my skills and knowledge 
